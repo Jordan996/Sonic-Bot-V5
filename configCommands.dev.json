@@ -13,7 +13,7 @@
 		},
 		"notification": {
 			"delayPerGroup": 250
-		},
+		} 
 		"rank": {
 			"deltaNext": 5
 		},
